@@ -23,8 +23,7 @@
 <div align="left">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+
 
   <!-- ML / Data Tools -->
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit-learn logo" />
@@ -33,8 +32,8 @@
 
   <!-- Web / Deployment -->
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40" alt="HTML/CSS/Bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=render" height="40" alt="Render logo" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="HTML/CSS/ logo" />
+ 
 
   <!-- DevOps & Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
