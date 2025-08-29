@@ -20,24 +20,30 @@
 
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
+
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" height="40" alt="languages" />
 
+  <!-- Data Science & ML -->
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,keras,pytorch,opencv" height="40" alt="ml tools" />
 
-  <!-- ML / Data Tools -->
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit-learn logo" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas logo" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI logo" />
+  <!-- Visualization -->
+  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn" height="40" alt="visualization" />  
 
-  <!-- Web / Deployment -->
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" />
-  <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="HTML/CSS/ logo" />
- 
+  <!-- AI / LLMs -->
+  <img src="https://skillicons.dev/icons?i=huggingface" height="40" alt="Hugging Face" />
+  <!-- LangChain & RAG don’t exist in skillicons, can add custom icons if you want -->
 
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
+  <!-- Web Frameworks -->
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" height="40" alt="Databases" />
+
+  <!-- Tools & DevOps -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,anaconda,jupyter" height="40" alt="tools" />
+
 </div>
 
 <br/>
