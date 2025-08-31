@@ -1,12 +1,13 @@
 <!-- Banner / Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=54FE15&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Devarsh+S+R;AI+%26+ML+Enthusiast+%7C+Problem+Solver+%7C+Developer;Passionate+on+Building+Smart+%26+Scalable+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=28&amp;pause=1000&amp;color=54FE15&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=👋+Hey+there!+I'm+Devarsh+S+R;AI+%26+ML+Enthusiast+%7C+Problem+Solver+%7C+Developer;Passionate+on+Building+Smart+%26+Scalable+AI+Solutions" alt="Typing SVG" />
 </p>
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=Devarsh%20S%20R&description=AI%20%26%20ML%20Developer%20%7C%20Flask%20%26%20Frontend%20Builder&image=https://avatars.githubusercontent.com/u/162615570?v=4&backgroundColor=%23161B22&instagram=d.ev.ar.sh&github=DevarshSR" alt="profile card"/>
+  <img src="https://cardivo.vercel.app/api?name=Devarsh%20S%20R&amp;description=AI%20%26%20ML%20Developer%20%7C%20Flask%20%26%20Frontend%20Builder&amp;image=https://avatars.githubusercontent.com/u/162615570?v=4&amp;backgroundColor=%23161B22&amp;instagram=d.ev.ar.sh&amp;github=DevarshSR" alt="profile card"/>
 </p>
+
 
 ---
 
