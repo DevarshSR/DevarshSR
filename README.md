@@ -1,6 +1,6 @@
 <!-- Banner / Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=252396&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Devarsh+S+R;AI+%26+ML+Enthusiast+%7C+Problem+Solver+%7C+Developer;Passionate+about+Building+Smart+%26+Scalable+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=54FE15&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Devarsh+S+R;AI+%26+ML+Enthusiast+%7C+Problem+Solver+%7C+Developer;Passionate+about+Building+Smart+%26+Scalable+AI+Solutions" alt="Typing SVG" />
 </p>
 
 <!-- Profile Card -->
