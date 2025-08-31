@@ -1,61 +1,67 @@
-![My card name](https://cardivo.vercel.app/api?name=Devarsh%20S%20R&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/162615570?s=400&u=ff1c4518e03ab41cedcc02cef57d365e54aef8f9&v=4&backgroundColor=%23e4f2f6&instagram=d.ev.ar.sh&github=DevarshSR)
-
+<!-- Banner / Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevarshSR&label=Visitors%20count&color=10d9c3&style=plastic" alt="DevarshSR" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Devarsh+S+R;AI+%26+ML+Enthusiast+%7C+Problem+Solver+%7C+Developer;Passionate+about+Building+Smart+%26+Scalable+AI+Solutions" alt="Typing SVG" />
 </p>
 
-<br/>
+<!-- Profile Card -->
+<p align="center">
+  <img src="https://cardivo.vercel.app/api?name=Devarsh%20S%20R&description=AI%20%26%20ML%20Developer%20%7C%20Flask%20%26%20Frontend%20Builder&image=https://avatars.githubusercontent.com/u/162615570?v=4&backgroundColor=%23161B22&instagram=d.ev.ar.sh&github=DevarshSR" alt="profile card"/>
+</p>
 
+---
+
+## 🌐 Connect With Me  
 <div align="center">
-  <a href="mailto:devarsh.sr.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/919496522406" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/d.ev.ar.sh?igsh=MTdodmV3aXdpbWp3cw%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="mailto:devarsh.sr.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/919496522406"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/d.ev.ar.sh"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/DevarshSR"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-<div align="center">
+---
 
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" height="40" alt="languages" />
+## ⚡ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,flask,mysql,firebase,git,github,gitlab,vscode,anaconda,jupyter" height="50"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,keras,pytorch,opencv" height="50"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,huggingface" height="50"/>
+</p>
 
-  <!-- Data Science & ML -->
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,keras,pytorch,opencv" height="40" alt="ml tools" />
+---
 
-  <!-- Visualization -->
-  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn" height="40" alt="visualization" />  
+## 🚀 Featured Projects  
+💡 Some cool things I’ve built recently:  
 
-  <!-- AI / LLMs -->
-  <img src="https://skillicons.dev/icons?i=huggingface" height="40" alt="Hugging Face" />
-  <!-- LangChain & RAG don’t exist in skillicons, can add custom icons if you want -->
+- 🌍 **Air Quality Prediction** — ML model with Flask API & custom frontend.  
+- 🧠 **Deep Learning Models** — TensorFlow / PyTorch experiments for vision & NLP.  
+- 🤖 **RAG + LangChain Apps** — Retrieval-Augmented-Generation pipelines.  
 
-  <!-- Web Frameworks -->
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
+👉 *[Check all my repositories here](https://github.com/DevarshSR?tab=repositories)*  
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" height="40" alt="Databases" />
+---
 
-  <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,anaconda,jupyter" height="40" alt="tools" />
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevarshSR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevarshSR&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevarshSR&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
 
-<br/>
-<hr/>
+---
 
+## 🏆 Achievements & Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevarshSR&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
+---
 
-<hr/>
-
-<h2 align="center">⚡ GitHub Stats</h2>
-<br/>
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DevarshSR&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DevarshSR&theme=radical&count_private=true" alt="GitHub streak" />
-</div>
+## 👀 Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevarshSR&label=Visitors&color=00f5d4&style=flat-square" alt="Profile Views"/>
+</p>
