@@ -5,8 +5,9 @@
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=Devarsh%20S%20R&amp;description=AI%20%26%20ML%20Developer%20%7C%20Flask%20%26%20Frontend%20Builder&amp;image=https://avatars.githubusercontent.com/u/162615570?v=4&amp;backgroundColor=%23161B22&amp;instagram=d.ev.ar.sh&amp;github=DevarshSR" alt="profile card"/>
+  <img src="https://img.shields.io/badge/Devarsh%20S%20R-AI%20%26%20ML%20Developer-blue?style=for-the-badge" alt="profile badge"/>
 </p>
+
 
 
 
@@ -37,8 +38,7 @@
 💡 Some cool things I’ve built recently:  
 
 - 🌍 **Air Quality Prediction** — ML model with Flask API & custom frontend.  
-- 🧠 **Deep Learning Models** — TensorFlow / PyTorch experiments for vision & NLP.  
-- 🤖 **RAG + LangChain Apps** — Retrieval-Augmented-Generation pipelines.  
+
 
 👉 *[Check all my repositories here](https://github.com/DevarshSR?tab=repositories)*  
 
